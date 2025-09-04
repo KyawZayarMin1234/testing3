@@ -1,0 +1,190 @@
+Here are the sample links for scanning as phishing link or not when user request.
+[SAFE LINK]
+https://www.google.com – Official Google search engine, safe.
+https://www.microsoft.com – Official Microsoft website, safe.
+https://github.com – Safe, official code hosting platform.
+https://openai.com – Safe AI research company website.
+https://www.bankofamerica.com – Official bank website.
+https://my.university.edu/login – Safe university login portal.
+https://www.facebook.com – Official Facebook website, safe.
+https://www.twitter.com – Official Twitter (X) website, safe.
+https://www.linkedin.com – Safe professional networking platform.
+https://www.apple.com – Official Apple website, safe.
+https://accounts.google.com – Safe, official Google login page.
+https://paypal.com – Official PayPal website, safe.
+https://www.amazon.com – Official Amazon shopping website, safe.
+https://my.gov.au – Official Australian Government services portal.
+https://www.singpass.gov.sg – Official Singapore Government digital ID portal.
+https://en.wikipedia.org – Official Wikipedia knowledge platform, safe.
+
+
+[UNSAFE LINK - PHISHING EXAMPLES]
+http://googIe.com.verify-login.ru – Unsafe, phishing attempt pretending to be Google.
+http://micros0ft-support.helpdesk.co – Unsafe, fake Microsoft support page.
+https://secure-update-paypa1.com – Unsafe, phishing attempt imitating PayPal (notice “paypa1” instead of “paypal”).
+http://bankofarnerica-login.com – Unsafe, fake banking site (typo “arnerica” instead of “america”).
+http://university-login.edu.fakeportal.net – Unsafe, phishing site pretending to be a university.
+https://update-your-account.amazon.verify-login.cc – Unsafe, fake Amazon login page.
+http://faceb00k-security-check.com – Unsafe, phishing attempt imitating Facebook (note “00” instead of “oo”).
+https://login-twitter.verify-accounts.net – Unsafe, fake Twitter login.
+http://linkedln-update.com – Unsafe, phishing site (note “linkedln” with “ln” instead of “in”).
+http://apple-login-authenticate.com – Unsafe, fake Apple login portal.
+https://accounts-secure-google.com – Unsafe, phishing site pretending to be Google login.
+http://paypal-account-verify.ru – Unsafe, fake PayPal verification page.
+http://amaz0n-order-update.com – Unsafe, fake Amazon order update site.
+https://secure-mybank-login.cn – Unsafe, phishing banking portal.
+http://gov-myanmar.services-login.net – Unsafe, fake Myanmar government service site.
+http://wik1pedia-login.com – Unsafe, phishing site mimicking Wikipedia.
+
+
+here are the sample password for checking the health of password
+[STRONG PASSWORDS]
+P@ssw0rd!2025 – Contains upper, lower, number, special character, >12 characters.
+Xy#8Lr$1nTqZ – Random mix of characters, difficult to guess, >12 characters.
+MyDog$RunsF@st88 – Passphrase style, includes words + symbols + numbers.
+5eCur3!Ty_Rul3z2024 – Complex and long, includes variety.
+QwErTy#19^MnBv – Randomized, includes symbols, upper/lowercase.
+I_Love!2Eat$ushi@Night – Long passphrase with symbols and numbers.
+T!ger_Wood$99@Golf – Mix of words, symbols, numbers, >14 characters.
+H@ppyDay$2025!!! – Includes words, numbers, and repeated special symbols.
+Unbr3ak@ble#Key*42 – Random phrase with uppercase, lowercase, symbols, numbers.
+S@f3ty!First_2025++ – Long, includes phrase + digits + symbols.
+
+[WEAK PASSWORDS]
+password – Too common, no complexity.
+12345678 – Sequential numbers, easily guessed.
+qwerty – Keyboard pattern, weak.
+admin123 – Predictable and often used.
+letmein – Common weak password phrase.
+iloveyou – Popular weak password, no symbols or numbers.
+welcome1 – Weak, dictionary word + single digit.
+myanmar2025 – Contains dictionary word + year, predictable.
+abcd1234 – Simple sequence, weak.
+pass@123 – Looks complex but still predictable and short.
+football – Common dictionary word.
+sunshine – Simple dictionary word, easy to guess.
+dragon – Popular weak password.
+123123 – Repeated numbers, weak.
+monkey – Common weak word.
+login2025 – Predictable word + year.
+testing123 – Used often for test accounts, weak.
+love123 – Popular weak phrase.
+11111111 – Repeated single digit, weak.
+00000000 – Another repeated single digit, weak.
+
+[PASSWORD RULES]
+- Strong passwords should be at least 12 characters long.
+- Use a mix of uppercase, lowercase, numbers, and special symbols.
+- Avoid dictionary words, personal info (names, birthdays, country), or predictable patterns.
+- Passphrases (long combinations of random words with symbols/numbers) are stronger.
+- Never reuse passwords across multiple accounts.
+- Weak passwords are often short, common, or based on predictable sequences.
+- Attackers can easily guess passwords like "123456", "password", or "qwerty".
+- Always change default passwords (like "admin123") immediately.
+
+
+these are the factors o email attachement for checking safe and Unsafe
+[MALWARE EMAIL ATTACHMENTS – UNSAFE]
+Invoice_2025.pdf.exe – Pretends to be a PDF but is an executable malware file.
+Salary_Slip_January2025.scr – Screensaver file containing malicious code.
+PaymentDetails.docm – Word document with embedded macros that install malware.
+Bank_Statement2025.xlsm – Excel file with malicious macros.
+Update_Account_Info.pdf.js – JavaScript disguised as a PDF attachment.
+Parcel_Delivery_Notice.zip – ZIP archive that contains hidden trojan executables.
+Resume_CV_JohnDoe.exe – Fake job application attachment carrying malware.
+COVID19_Guidelines.pdf.exe – Double-extension trick, dangerous executable.
+photo.jpg.scr – Image file extension trick hiding malware.
+account_security_update.bat – Batch script that executes harmful commands.
+
+[MALWARE EMAIL ATTACHMENTS – SAFE]
+Invoice_2025.pdf – Normal PDF file, safe to open if from trusted sender.
+Salary_Slip_January2025.xlsx – Excel sheet without macros, safe.
+PaymentDetails.docx – Word document without macros, safe.
+Bank_Statement2025.pdf – Official bank statement in PDF format.
+Meeting_Notes.txt – Plain text file, harmless.
+Project_Report2025.pptx – PowerPoint presentation, safe if no macros embedded.
+photo.jpg – Regular image file, safe.
+research_paper.pdf – Standard PDF file, safe.
+music_sample.mp3 – Audio file, safe.
+video_clip.mp4 – Video file, safe.
+
+[EMAIL ATTACHMENT RULES]
+- Attackers often disguise malware by using double extensions (e.g., “file.pdf.exe”).
+- Malicious macros are often hidden in Word (.docm) or Excel (.xlsm) files.
+- Executable attachments (.exe, .bat, .scr, .js) are rarely sent by legitimate companies.
+- ZIP and RAR archives may contain hidden malware files.
+- Safe file types (like .pdf, .jpg, .mp3) can still be malicious if tampered with, always verify sender.
+- Always scan suspicious attachments with antivirus before opening.
+
+
+here are the sample phishing email so that each can be example for checkign the safety of email to know wheter it is phishing eamil or not
+
+[PHISHING EMAIL SAMPLE 1 – Bank Fraud]
+Subject: Urgent: Verify Your Account Immediately
+Body:
+Dear Customer,
+We have detected unusual activity in your bank account.
+To avoid suspension, please verify your identity immediately by clicking the link below and downloading the attached document.
+Attachment: Bank_Statement2025.xlsm
+Link: http://bankofarnerica-login.com
+Thank you,
+Bank Security Team
+
+[PHISHING EMAIL SAMPLE 2 – Fake Delivery Notice]
+Subject: Parcel Delivery Failed – Action Required
+Body:
+Hello,
+Your package could not be delivered due to an incorrect address.
+Please download the attached form and confirm your details to reschedule delivery.
+Attachment: Parcel_Delivery_Notice.zip
+Link: http://dhl-parcel-verify.net
+Sincerely,
+DHL Express
+
+[PHISHING EMAIL SAMPLE 3 – Fake Job Offer]
+Subject: Job Application – Immediate Review
+Body:
+Dear HR Manager,
+Please find my resume attached. I am eager to apply for the advertised role.
+Attachment: Resume_CV_JohnDoe.exe
+Link: http://job-careers-portal.org/login
+Best regards,
+John Doe
+
+[PHISHING EMAIL SAMPLE 4 – COVID-19 Scam]
+Subject: Important: New COVID-19 Safety Guidelines
+Body:
+Attention,
+Due to recent health updates, please read the attached document for the latest government-issued COVID-19 guidelines.
+Failure to comply may result in fines.
+Attachment: COVID19_Guidelines.pdf.exe
+Link: http://gov-health-alerts.info
+Ministry of Health
+
+[PHISHING EMAIL SAMPLE 5 – Fake PayPal Security Alert]
+Subject: Your PayPal Account Has Been Limited
+Body:
+Dear User,
+Your PayPal account has been temporarily limited due to suspicious activity.
+Please confirm your account information by clicking the secure link below.
+Link: https://secure-update-paypa1.com
+No attachment in this case
+Sincerely,
+PayPal Security
+
+[PHISHING EMAIL SAMPLE 6 – Fake University Notice]
+Subject: Urgent: Verify Student Login
+Body:
+Dear Student,
+Your university account will be disabled unless you update your login credentials immediately.
+Please use the attached document to confirm your student status.
+Attachment: University_Login_Update.docm
+Link: http://university-login.edu.fakeportal.net
+Registrar Office
+
+[PHISHING EMAIL RULES]
+- Phishing emails often use urgent or threatening language such as "verify immediately" or "account suspended".
+- Look out for spelling mistakes, poor grammar, and unusual sender addresses.
+- Links often use lookalike domains such as paypa1.com instead of paypal.com.
+- Attachments with extensions like .exe, .scr, .js, or .zip often contain malware.
+- Legitimate organizations rarely ask for login details or personal information via email.

@@ -1,0 +1,33 @@
+export const translations = {
+    en: {
+      newChat: "New Chat",
+      chats: "Chats",
+      takeQuiz: "Take Quiz",
+      addFile: "Add file",
+      askPlaceholder: "Ask Securum",
+      welcome: "Welcome",
+      noScores: "No scores",
+      marks: "marks",
+      logout: "Logout",
+      login: "Log In",
+      light:"Light",
+      dark:"Dark",
+      knowledge:"Be knowledgable with "
+    },
+    my: {
+      newChat: "Chat အသစ်",
+      chats: "Chat များ",
+      takeQuiz: "ဉာဏ်စမ်း",
+      addFile: "ဖိုင်ထည့်မည်",
+      askPlaceholder: "Securum ကိုမေးမည်",
+      welcome: "ကြိုဆိုပါတယ်",
+      noScores: "အမှတ်မရှိသေးပါ",
+      marks: "မှတ်",
+      logout: "ထွက်မည်",
+      login: "လော့ဂ်အင်",
+      light:"အလင်း",
+      dark:"အမှောင်",
+      knowledge:"ဗဟုသုတ ရှာမှီးရန် "
+    },
+  };
+  
