@@ -12,7 +12,9 @@ export const translations = {
       login: "Log In",
       light:"Light",
       dark:"Dark",
-      knowledge:"Be knowledgable with "
+      knowledge:"Be knowledgable with ",
+      downloadChat: "Download Chat",
+      download: "Download",
     },
     my: {
       newChat: "Chat အသစ်",
@@ -27,7 +29,9 @@ export const translations = {
       login: "လော့ဂ်အင်",
       light:"အလင်း",
       dark:"အမှောင်",
-      knowledge:"ဗဟုသုတ ရှာမှီးရန် "
+      knowledge:"ဗဟုသုတ ရှာမှီးရန် ",
+      downloadChat: "Download Chat",
+      download: "Download",
     },
   };
   
